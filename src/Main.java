@@ -16,9 +16,6 @@ import util.ui.SelectAction;
 /**
  * Main method for Recipe/Ingredient mySQL database management ~ Queries
  *
- * By: David, Kelly, Kevin, Anna
- * Deliverable 4 - SER322
- *
  * Main calls on different management screens based on User input. From those Screens,
  *  Queries are called and objects are filled with data based on queries and user interaction
  *
