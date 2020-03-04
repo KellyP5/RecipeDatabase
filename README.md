@@ -1,5 +1,4 @@
-# SER322 - Deliverable 4 - mySQL Recipe Program
-*David, Kevin, Anna, Kelly*
+# mySQL Recipe Program
 
 [![Deliverable 4 Video](https://img.youtube.com/vi/fGKemSJCnwc/0.jpg)](https://youtu.be/fGKemSJCnwc)
 
@@ -9,7 +8,7 @@
 
 # Example
 
-"69.254.195.147:3306" "RECIPEDB" "com.mysql.jdbc.Driver" "kevin" "6016"
+"mySQL IP" "RECIPEDB" "com.mysql.jdbc.Driver" "ADMIN" "PASSWORD"
 
 # Main Menu
 * Cupboard
